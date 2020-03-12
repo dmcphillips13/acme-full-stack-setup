@@ -1,0 +1,20 @@
+{
+  "name": "acme-full-stack-setup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmcphillips13/acme-full-stack-setup.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dmcphillips13/acme-full-stack-setup/issues"
+  },
+  "homepage": "https://github.com/dmcphillips13/acme-full-stack-setup#readme"
+}
